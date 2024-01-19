@@ -14,3 +14,7 @@ function logout(username) {
     //logout 처리
     
 }
+
+function r1() {
+    
+}
