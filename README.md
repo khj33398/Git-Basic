@@ -5,3 +5,4 @@
 * git push
 * git commit -am 'commit message' => add & commit
 * git rebase
+* git revert
