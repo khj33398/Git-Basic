@@ -16,5 +16,9 @@ function logout(username) {
 }
 
 function r1() {
+
+}
+
+function r2() {
     
 }
