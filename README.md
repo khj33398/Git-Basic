@@ -4,3 +4,4 @@
 * git commit
 * git push
 * git commit -am 'commit message' => add & commit
+* git rebase
