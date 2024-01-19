@@ -4,10 +4,8 @@
 
 function login(username, password) {
     //login 처리
-    if(username != null) {
+    if(username != null && password != null && flag) {
         //username값과 FLAG 값을 체크
-        //conflict test
-        //conflict test2
     }
     return true;
 }
