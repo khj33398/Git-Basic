@@ -7,6 +7,7 @@ function login(username, password, flag) {
     if(username != null && password != null && flag) {
         //username값과 FLAG 값을 체크
         console.log("로그인 처리" + username + " " + password + " " + flag);
+        //버그수정으로 commit
     }
     return true;
 }
